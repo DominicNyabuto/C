@@ -1,5 +1,5 @@
-# This are all my beginner C projects/tutorial code and learning material
-Most of the code is from online tutorials with minimal tweaks. 
+# These are all my beginner C projects/tutorials 
+Most are from online tutorials with minimal tweaks. 
 Sources: 
  1. https://www.interviewbit.com/blog/c-projects/
  2. https://www.youtube.com/watch?v=87SH2Cn0s9A&ab_channel=BroCode
